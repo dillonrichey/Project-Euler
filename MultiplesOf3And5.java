@@ -2,12 +2,16 @@
 /**
  * @author dillonrichey
  * 
+ * This program is a solution to Problem 1 from Project Euler.
+ * 
+ * http://projecteuler.net/problem=001
+ * 
  * This program sums all of the numbers that are multiples of
  * 3 or 5 (or both) between 0 and 1000 (not inclusive). The sum
  * of these numbers is printed to the console.
  *
  */
-public class SumOfMultiples {
+public class MultiplesOf3And5 {
 
 public static void main (String args[]){
 	
